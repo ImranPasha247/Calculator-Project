@@ -54,3 +54,18 @@ button:active{
 .operator:active{
     background-color: rgb(248, 184, 119);
 }
+#clear{
+    height:50px;
+    width:50px;
+    font-size:25px;
+    border-radius:50px;
+    border:none;
+    font-weight:bold;
+    cursor: pointer;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+
